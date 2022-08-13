@@ -1,13 +1,13 @@
 <h1 align="center">Hello 👋, my name is Kitaykin Dmitriy</h1>
 
-<h3 align="center">I'm Junior C# delover and work with modern Web technoligies and make layouts of static web pages as well as reactive interfaces using React and Redux libraries. I progress towards becoming a fullstack developer and I'm working to able to deal with all frameworks like Angular and Vue, even though my main focus will be React. Currently I'm looking for fulltime remote employment.</h3>
+<h3 align="center">I'm Junior C# delover and work with modern Web technoligies</h3>
 
 - <a href="https://www.dropbox.com/s/r6lbcb39oejolp1/Resume%20Vysotskii%20Artem.pdf?dl=0" target="_blank" rel="noreferrer">My resume</a>
 - <a href="https://vysotskii.vercel.app/" target="_blank" rel="noreferrer">My portfolio</a>
 
 <h1 align="center">Привет 👋, меня зовут Китайкин Дмитрий</h1>
 
-<h3 align="center">Я Junior C# Разработчик и работаю с современными технологиями и разрабатываю как статичные сайты, так и реактивные интерфейсы с помощью React/Redux. Я развиваюсь в сторону fullstack разработчика и хотел бы познакомиться в том числе с Vue и Angular, а в дальнейшем разрабатывать в MERN/MEAN стаке. В данный момент ищу удаленную работу и также рассматриваю релокацию.</h3>
+<h3 align="center">Я Junior C# Разработчик и работаю с современными технологиями</h3>
 
 - <a href="https://www.dropbox.com/s/44zry1sawj6ul5q/Resume%20Russian.pdf?dl=0" target="_blank" rel="noreferrer">Моё резюме</a>
 - <a href="https://vysotskii.vercel.app/" target="_blank" rel="noreferrer">Моё портфолио</a>
