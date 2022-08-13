@@ -1,10 +1,10 @@
-<h1 align="center">Привет 👋, меня зовут Китайкин Дмитрий</h1>
+<h1 align="center">Привет 👋, меня зовут Дмитрий</h1>
 
 <h3 align="center">Я начинающий разработчик</h3>
 
 - <a href="https://volgograd.hh.ru/resume/bfc13c06ff0862a8040039ed1f77575856554d" target="_blank" rel="noreferrer">Моё резюме</a>
 
-<h1 align="center">Hello 👋, my name is Kitaykin Dmitriy</h1>
+<h1 align="center">Hello 👋, my name is Dmitriy</h1>
 
 <h3 align="center">I'm junior developer</h3>
 
@@ -19,7 +19,7 @@
 
 <h3 align="left">Языки и технологии:</h3>
 <p align="left">
-<a href="https://metanit.com/sharp/tutorial/" target="_blank" rel="noreferrer"> <img src="https://www.flaticon.com/free-icon/c-logo_74906?related_id=74906" alt="csharp" width="40" height="40"/> </a> 
+<a href="https://metanit.com/sharp/tutorial/" target="_blank" rel="noreferrer"> <img src="https://cdn.icon-icons.com/icons2/3389/PNG/512/c_sharp_icon_213045.png" alt="csharp" width="40" height="40"/> </a> 
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>  
