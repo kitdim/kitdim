@@ -2,17 +2,17 @@
 
 <h3 align="center">I'm Junior C# delover and work with modern Web technoligies</h3>
 
-- <a href="https://www.dropbox.com/s/r6lbcb39oejolp1/Resume%20Vysotskii%20Artem.pdf?dl=0" target="_blank" rel="noreferrer">My resume</a>
+- <a href="hh.ru/resume/bfc13c06ff0862a8040039ed1f77575856554d" target="_blank" rel="noreferrer">My resume</a>
 
 <h1 align="center">Привет 👋, меня зовут Китайкин Дмитрий</h1>
 
-<h3 align="center">Я Junior C# Разработчик и работаю с современными технологиями</h3>
+<h3 align="center">Я Junior C# разработчик и работаю с современными технологиями</h3>
 
-- <a href="https://www.dropbox.com/s/44zry1sawj6ul5q/Resume%20Russian.pdf?dl=0" target="_blank" rel="noreferrer">Моё резюме</a>
+- <a href="hh.ru/resume/bfc13c06ff0862a8040039ed1f77575856554d" target="_blank" rel="noreferrer">Моё резюме</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/artem-vysotskii-194879232/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/artem-vysotskii-194879232/" height="30" width="40" /></a>
+<a href="https://t.me/KitMitia" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/800px-Telegram_2019_Logo.svg.png" alt="https://t.me/KitMitia" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
