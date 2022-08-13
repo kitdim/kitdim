@@ -19,7 +19,7 @@
 
 <h3 align="left">Языки и технологии:</h3>
 <p align="left">
-<a href="https://metanit.com/sharp/tutorial/" target="_blank" rel="noreferrer"> <img src="https://img2.freepng.ru/20180328/dcw/kisspng-net-framework-c-net-core-software-framework-mon-studio-5abb543b9c9cc0.0743300915222262356415.jpg" alt="csharp" width="40" height="40"/> </a> 
+<a href="https://metanit.com/sharp/tutorial/" target="_blank" rel="noreferrer"> <img src="https://www.flaticon.com/free-icon/c-logo_74906?related_id=74906" alt="csharp" width="40" height="40"/> </a> 
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>  
