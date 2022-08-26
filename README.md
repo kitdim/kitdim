@@ -1,5 +1,6 @@
 <h1 align="center">Привет 👋, меня зовут Дмитрий</h1>
-<h3 align="center">Я разработчик</h3>
+<br />
+<p>Я разработчик,</p>
 <h3 align="left">Связаться со мной можно:</h3>
 <p align="left">
 <a href="https://t.me/KitMitia" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/800px-Telegram_2019_Logo.svg.png" alt="https://t.me/KitMitia" height="40" width="40" /></a>
