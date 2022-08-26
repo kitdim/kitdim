@@ -1,17 +1,5 @@
 <h1 align="center">Привет 👋, меня зовут Дмитрий</h1>
-
-<h3 align="center">Я начинающий разработчик</h3>
-
-- <a href="https://volgograd.hh.ru/resume/bfc13c06ff0862a8040039ed1f77575856554d" target="_blank" rel="noreferrer">Моё резюме</a>
-
-<h1 align="center">Hello 👋, my name is Dmitriy</h1>
-
-<h3 align="center">I'm junior developer</h3>
-
-- <a href="https://volgograd.hh.ru/resume/bfc13c06ff0862a8040039ed1f77575856554d" target="_blank" rel="noreferrer">My resume</a>
-
-
-
+<h3 align="center">Я разработчик</h3>
 <h3 align="left">Связаться со мной можно:</h3>
 <p align="left">
 <a href="https://t.me/KitMitia" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/800px-Telegram_2019_Logo.svg.png" alt="https://t.me/KitMitia" height="40" width="40" /></a>
