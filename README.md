@@ -1,4 +1,4 @@
-<h1 align="center">Привет 👋, меня зовут Дмитрий</h1>
+<h1 align="center">Привет 👋</h1>
 <br />
 <h3 align="left">Связаться со мной можно:</h3>
 <p align="left">
