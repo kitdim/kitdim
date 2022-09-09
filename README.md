@@ -9,22 +9,20 @@ I'm passionate about microservices architecture and what I love about .NET are i
 
 <h2 align="center">My skills are:</h2>
 
-<h4 align="center">
-
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
-![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-
-</h4>
+<div>
+  <p align="center">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-plain.svg"  title="csharp" alt="csharp" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="python" alt="python" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg"  title="php" alt="php" width="40" height="40"/>&nbsp;    
+  </p>
+</div>
 
 <hr>
 
 <h2 align="center">How to contact me</h2>
 
 <p align="center">
-<a href="https://t.me/KitMitia">
-<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></img>
-</a>
+<a href="https://t.me/KitMitia" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/800px-Telegram_2019_Logo.svg.png" alt="https://t.me/KitMitia" height="40" width="40" /></a>
 </p>
 
 <hr>
