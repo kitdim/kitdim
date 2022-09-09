@@ -4,7 +4,8 @@
 Previously, I worked as a junior programmer and was engaged in writing C# code for querying a database and creating graphical interfaces using PF technology. I also write code in PHP and Python
 
 I'm passionate about microservices architecture and what I love about .NET are its performance, innovativeness, and convenience.-->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&pause=1000&color=000000&width=435&lines=My+name+is+Dima%2C+I+am+a+software+engineer)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&pause=1000&color=000000&width=435&lines=My+name+is+Dima%2C+I+am+a+software+engineer.)](https://git.io/typing-svg)
 <hr>
 
 <h2 align="center">My skills are:</h2>
