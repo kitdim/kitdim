@@ -2,7 +2,7 @@
 
 ### 👨‍💻 About me
 
-😉 I'm a **full stack developer** specializing in .NET (C#, ASP.NET MVC).<br />
+😉 I'm a **developer** specializing in .NET (C#, ASP.NET MVC).<br />
 🔭 I have experience in developing **web applications** (ASP.NET Core MVC, Web API), **desktop applications** (WinForms,
 ConsoleApp, WPF). <br />
 I also work with **databases** (MS SQL, SQLite, Postgresql).  <br />
@@ -16,6 +16,7 @@ I also work with **databases** (MS SQL, SQLite, Postgresql).  <br />
     <a href="https://github.com/search?q=user%3kitdim+language%3Aphp"><img alt="PHP" src="https://custom-icon-badges.herokuapp.com/badge/PHP-025E8C.svg?style=flat&logo=php&color=silver&logoColor=whiteblue"></a>
     <a href="https://github.com/search?q=user%3kitdim+language%3Asql"><img alt="SQL" src="https://custom-icon-badges.herokuapp.com/badge/SQL-025E8C.svg?style=flat&logo=database&logoColor=green"></a>    
 </p>
+
 ### 🧰 Frameworks and Libraries
 
 <p>
@@ -37,45 +38,21 @@ I also work with **databases** (MS SQL, SQLite, Postgresql).  <br />
     <a href="#" target="_blank"><img alt="Visual Studio" src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=flat&logo=visual-studio&logoColor=white"/></a>
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat&logo=visual-studio-code&logoColor=white"></a>
     <a href="#" target="_blank"><img alt="PyCharm" src="https://img.shields.io/badge/PyCharm-143?style=flat&logo=PyCharm&logoColor=black&color=green&labelColor=green"/></a>
-     <a href="#" target="_blank"><img alt="PhpStorm" src="https://img.shields.io/badge/PhpStorm-143?style=flat&logo=PhpStorm&logoColor=black&color=green&labelColor=green"/></a>
+     <a href="#" target="_blank"><img alt="PhpStorm" src="https://img.shields.io/badge/PhpStorm-143?style=flat&logo=PhpStorm&logoColor=black&color=silver&labelColor=silver"/></a>
     <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?style=flat&logo=git&logoColor=white"></a>
 </p>
 
 ### 📊 Github stats
-
+<details>
 <p>
-<a href="https://gitstats.me/a-kozhanov" target="_blank">
-  <img height="180em" alt="Alexander Kozhanov's github stats" src="https://github-readme-stats-eight-theta.vercel.app/api?username=a-kozhanov&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-  <img height="180em" alt="Alexander Kozhanov's github stats" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=a-kozhanov&layout=compact&langs_count=8&theme=react"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kitdim&layout=compact&theme=dark&langs_count=6"></img>
 </a>
 </p>
-
-<details>
-<summary>📈 Recent GitHub Activity</summary>
-
-![Alexander Kozhanov's GitHub Activity graph](https://activity-graph.herokuapp.com/graph?username=a-kozhanov&theme=dracula)
-
 </details>
 
+### 🔥 Streak stats
 <details>
-<summary>🔥 Streak stats</summary>
 <p>
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=a-kozhanov&date_format=n%2Fj%5B%2FY%5D&theme=react">
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=kitdim&theme=dark&line_height=0"></img>
 </p>
 </details>
-
-<details>
-<summary>⌛ Wakatime Stats</summary>
-
-[![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=akozhanov&layout=compact&theme=react)](https://wakatime.com/akozhanov)
-
-</details>
-
-<details>
-<summary>📊 Language&nbsp;/&nbsp;Framework stats</summary>
-<a href='https://profile.codersrank.io/user/a-kozhanov/'>
-    <img src='http://cr-skills-chart-widget.azurewebsites.net/api/api?username=a-kozhanov&padding=30'>
-</a>
-
-</details>
-
