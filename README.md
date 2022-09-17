@@ -13,14 +13,14 @@ I also work with **databases** (MS SQL, SQLite, Postgresql).  <br />
 <p>
     <a href="https://github.com/search?q=user%3kitdim+language%3Acsharp"><img alt="C#" src="https://custom-icon-badges.herokuapp.com/badge/C%23-68217A.svg?style=flat&logo=cs2&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3kitdim+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/-Python-blue?style=flat&logo=Python&logoColor=yellow"></a>
-    <a href="https://github.com/search?q=user%3kitdim+language%3Aphp"><img alt="PHP" src="https://custom-icon-badges.herokuapp.com/badge/PHP-025E8C.svg?style=flat&logo=php&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3kitdim+language%3Asql"><img alt="SQL" src="https://custom-icon-badges.herokuapp.com/badge/SQL-025E8C.svg?style=flat&logo=database&logoColor=white"></a>    
+    <a href="https://github.com/search?q=user%3kitdim+language%3Aphp"><img alt="PHP" src="https://custom-icon-badges.herokuapp.com/badge/PHP-025E8C.svg?style=flat&logo=php&color=silver&logoColor=whiteblue"></a>
+    <a href="https://github.com/search?q=user%3kitdim+language%3Asql"><img alt="SQL" src="https://custom-icon-badges.herokuapp.com/badge/SQL-025E8C.svg?style=flat&logo=database&logoColor=green"></a>    
 </p>
 ### 🧰 Frameworks and Libraries
 
 <p>
     <a href="#"><img alt="ASP.NET Core" src="https://img.shields.io/badge/ASP.NET%20Core-5C2D91?style=flat&logo=.net&logoColor=white"></a>
-    <a href="#"><img alt="Entity Framework" src="https://img.shields.io/badge/Entity Framework-5C2D91?style=flat&logo=.net&logoColor=white"></a
+    <a href="#"><img alt="Entity Framework" src="https://img.shields.io/badge/Entity Framework-5C2D91?style=flat&logo=.net&color=glossy&logoColor=whiteblue"></a
 </p>
 
 ### 🗄️ Databases
