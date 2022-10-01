@@ -56,4 +56,6 @@ I also work with **databases** (MS SQL, SQLite, Postgresql).  <br />
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=kitdim&theme=dark&line_height=0"></img>
 </p>
 </details>
-(https://github-readme-stats.vercel.app/api/pin/?username=kitdim&repo=KitTypeViewer)
+
+### Projects
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kitdim&repo=KitTypeViewer&show_owner=true)](https://github.com/kitdim/KitTypeViewer )
