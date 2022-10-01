@@ -57,5 +57,5 @@ I also work with **databases** (MS SQL, SQLite, Postgresql).  <br />
 </p>
 </details>
 
-### Projects
+### ​📋​ Projects
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kitdim&repo=KitTypeViewer&show_owner=false)](https://github.com/kitdim/KitTypeViewer )
