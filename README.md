@@ -2,10 +2,10 @@
 
 ### 👨‍💻 About me
 
-😉 I'm a **developer** specializing in .NET (C#, ASP.NET MVC).<br />
-🔭 I have experience in developing **web applications** (ASP.NET Core MVC, Web API), **desktop applications** (WinForms,
+😉 I'm a **developer** specializing in .NET and PHP.<br />
+🔭 I have experience in developing **web applications** (HTML,CSS,JS,PHP), **desktop applications** (WinForms,
 ConsoleApp, WPF). <br />
-I also work with **databases** (MS SQL, SQLite, Postgresql).  <br />
+I also work with **databases** (MS SQL, SQLite, Postgresql, MySQL).  <br />
 📣 Also interested in new products in the world of **.NET development** and **IT** in general. <br />
 
 ### 🛠 Programming languages
