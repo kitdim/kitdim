@@ -1,6 +1,6 @@
 <h2 align="center"> Hi there 👋, My name is Dmitriy, Welcome to my GitHub Profile<br/> </h2> 
 
-### 👨‍💻 About me
+<!--- ### 👨‍💻 About me
 
 😉 I'm a **developer** specializing in .NET and PHP.<br />
 🔭 I have experience in developing **web applications** (HTML,CSS,JS,PHP), **desktop applications** (WinForms,
@@ -41,7 +41,7 @@ I also work with **databases** (MS SQL, SQLite, Postgresql, MySQL).  <br />
      <a href="#" target="_blank"><img alt="PhpStorm" src="https://img.shields.io/badge/PhpStorm-143?style=flat&logo=PhpStorm&logoColor=black&color=silver&labelColor=silver"/></a>
     <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?style=flat&logo=git&logoColor=white"></a>
 </p>
-
+-->
 ### 📊 Github stats
 <details>
 <p>
