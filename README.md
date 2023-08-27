@@ -1,13 +1,13 @@
 <h2 align="center"> Hi there 👋, My name is Dmitriy, Welcome to my GitHub Profile<br/> </h2> 
 
-<!--- ### 👨‍💻 About me
+### 👨‍💻 About me
 
-😉 I'm a **developer** specializing in .NET and PHP.<br />
-🔭 I have experience in developing **web applications** (HTML,CSS,JS,PHP), **desktop applications** (WinForms,
-ConsoleApp, WPF). <br />
+😉 I'm a **developer** specializing in Java.<br />
+🔭 I have experience in developing **web applications** (HTML,CSS,JS,PHP), <!---**desktop applications** (WinForms,
+ConsoleApp, WPF).--> <br />
 I also work with **databases** (MS SQL, SQLite, Postgresql, MySQL).  <br />
-📣 Also interested in new products in the world of **.NET development** and **IT** in general. <br />
-
+📣 Also interested in new products in the world of **Java** and **IT** in general. <br />
+<!---
 ### 🛠 Programming languages
 
 <p>
