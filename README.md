@@ -58,6 +58,6 @@ I also work with **databases** (MS SQL, SQLite, Postgresql, MySQL).  <br />
 </details>
 
 ### ​📋​ Projects
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kitdim&repo=KitTypeViewer&show_owner=false)](https://github.com/kitdim/KitTypeViewer)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kitdim&repo=Brain-game&show_owner=false)](https://github.com/kitdim/Brain-game)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kitdim&repo=KitParser&show_owner=false)](https://github.com/kitdim/KitParser)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kitdim&repo=KitWeather&show_owner=false)](https://github.com/kitdim/KitWeather)
