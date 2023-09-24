@@ -38,7 +38,7 @@ I also work with **databases** (MS SQL, SQLite, Postgresql, MySQL).  <br />
     <a href="#" target="_blank"><img alt="Visual Studio" src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=flat&logo=visual-studio&logoColor=white"/></a>
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat&logo=visual-studio-code&logoColor=white"></a>
     <a href="#" target="_blank"><img alt="PyCharm" src="https://img.shields.io/badge/PyCharm-143?style=flat&logo=PyCharm&logoColor=black&color=green&labelColor=green"/></a>
-     <a href="#" target="_blank"><img alt="PhpStorm" src="https://img.shields.io/badge/PhpStorm-143?style=flat&logo=PhpStorm&logoColor=black&color=silver&labelColor=silver"/></a>
+    <a href="#" target="_blank"><img alt="PhpStorm" src="https://img.shields.io/badge/PhpStorm-143?style=flat&logo=PhpStorm&logoColor=black&color=silver&labelColor=silver"/></a>
     <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?style=flat&logo=git&logoColor=white"></a>
 </p>
 -->
@@ -59,5 +59,8 @@ I also work with **databases** (MS SQL, SQLite, Postgresql, MySQL).  <br />
 
 ### ​📋​ Projects
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kitdim&repo=Brain-game&show_owner=false)](https://github.com/kitdim/Brain-game)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kitdim&repo=Difference-Calculator&show_owner=false)](https://github.com/kitdim/Difference-Calculator)
+<!---
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kitdim&repo=KitParser&show_owner=false)](https://github.com/kitdim/KitParser)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kitdim&repo=KitWeather&show_owner=false)](https://github.com/kitdim/KitWeather)
+-->
