@@ -2,11 +2,20 @@
 
 ### 👨‍💻 About me
 
-😉 I'm a **developer** specializing in Java.<br />
-🔭 I have experience in developing **web applications** (HTML,CSS,JS,PHP), <!---**desktop applications** (WinForms,
-ConsoleApp, WPF).--> <br />
-I also work with **databases** (MS SQL, SQLite, Postgresql, MySQL).  <br />
-📣 Also interested in new products in the world of **Java** and **IT** in general. <br />
+I'm a **developer** specializing in Java. I have experience in developing **web applications** (HTML,CSS,JS,PHP). <br />
+I also work with **databases** (MS SQL, SQLite, Postgresql, MySQL).  Also interested in new products in the world of **Java** and **IT** in general. <br />
+
+* 📝 **Education**: Volgograd Polytechnic University, software engineer.
+* 💻 **Courses**: Hexlet Programming School
+* 💼 **Experience**: I have pet projects that you can check out in my GitHub repositories
+
+### ✨ Skills
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,idea,gradle,git,github,postgres,bash,html,css" />
+  </a>
+</p>
+
 <!---
 ### 🛠 Programming languages
 
@@ -42,6 +51,43 @@ I also work with **databases** (MS SQL, SQLite, Postgresql, MySQL).  <br />
     <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?style=flat&logo=git&logoColor=white"></a>
 </p>
 -->
+
+### 💻 Applied:
+* Java Core, Java Collections Framework
+* Javalin Framework
+* Test Automation by JUnit5
+* HTML, CSS (basics)
+* Work with Git, GitHub, building projects with Gradle
+* Bash
+* CI/CD (GitHub Action)
+
+### 🧰 Fundamental:
+* OOP and SOLID principles
+* Test-Driven Development (TDD)
+* Refactoring
+* Work with data bases, SQL
+
+<!--- ### PROJECTS
+
+[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api/pin/?username=darklittlefinch&repo=java-project-61&theme=github_dark#gh-dark-mode-only)](https://github.com/darklittlefinch/java-project-61#gh-dark-mode-only)
+[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api/pin/?username=darklittlefinch&repo=java-project-61&theme=default_repocard#gh-light-mode-only)](https://github.com/darklittlefinch/java-project-61#gh-light-mode-only)
+[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api/pin/?username=darklittlefinch&repo=java-project-71&theme=github_dark#gh-dark-mode-only)](https://github.com/darklittlefinch/java-project-71#gh-dark-mode-only)
+[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api/pin/?username=darklittlefinch&repo=java-project-71&theme=default_repocard#gh-light-mode-only)](https://github.com/darklittlefinch/java-project-71#gh-light-mode-only)
+[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api/pin/?username=darklittlefinch&repo=java-project-78&theme=github_dark#gh-dark-mode-only)](https://github.com/darklittlefinch/java-project-78#gh-dark-mode-only)
+[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api/pin/?username=darklittlefinch&repo=java-project-78&theme=default_repocard#gh-light-mode-only)](https://github.com/darklittlefinch/java-project-78#gh-light-mode-only)
+[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api/pin/?username=darklittlefinch&repo=java-project-72&theme=github_dark#gh-dark-mode-only)](https://github.com/darklittlefinch/java-project-72#gh-dark-mode-only)
+[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api/pin/?username=darklittlefinch&repo=java-project-72&theme=default_repocard#gh-light-mode-only)](https://github.com/darklittlefinch/java-project-72#gh-light-mode-only)
+
+### LINKS
+* [My Habr profile](https://career.habr.com/darklittlefinch)
+* [My Hexlet account](https://ru.hexlet.io/u/darklittlefinch)
+* [My CV (russian)](https://cv.hexlet.io/ru/resumes/2925)-->
+
+### ☎️ Contacts
+* 🖇️ **LinkedIn**: [link](https://www.linkedin.com/in/dmitriy-kitaykin/)
+* 📧 **e-mail**: kitaykin9808@gmail.com
+* ✈️ **Telegram**: [@kitdim](https://t.me/kit_dim)
+  
 ### 📊 Github stats
 <details>
 <p>
