@@ -3,7 +3,7 @@
 ### 👨‍💻 About me
 
 I'm a **developer** specializing in Java. I have experience in developing **web applications** (HTML,CSS,JS,PHP). <br />
-I also work with **databases** (MS SQL, SQLite, Postgresql, MySQL).  Also interested in new products in the world of **Java** and **IT** in general. <br />
+I also work with **databases** (Oracle, SQLite, Postgresql, MySQL).  Also interested in new products in the world of **Java** and **IT** in general. <br />
 
 * 📝 **Education**: Volgograd Polytechnic University, software engineer.
 * 💻 **Courses**: Hexlet Programming School
