@@ -6,7 +6,6 @@ I'm a **developer** specializing in Java. I have experience in developing **web 
 I also work with **databases** (Oracle, SQLite, Postgresql, MySQL).  Also interested in new products in the world of **Java** and **IT** in general. <br />
 
 * 📝 **Education**: Volgograd Polytechnic University, software engineer.
-* 💻 **Courses**: Hexlet Programming School
 * 💼 **Experience**: I have pet projects that you can check out in my GitHub repositories
 
 ### ✨ Skills
